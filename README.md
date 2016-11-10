@@ -1,4 +1,4 @@
-# ruby-library ruby  garage
+# hid reader
 
 The component is designed for simple addition of the ability to you applications read HID device by it's divice id.
 
