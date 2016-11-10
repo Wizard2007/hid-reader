@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dcu
+Source/D2007/TtUSBReader.dproj.local
+*.identcache
